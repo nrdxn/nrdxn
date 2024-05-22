@@ -1,4 +1,4 @@
-> # 👋 Hi there
+# 👋 Hi there, I'm nardana
 
 > ## 🍕 Languages and Tools
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
