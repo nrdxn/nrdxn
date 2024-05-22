@@ -7,4 +7,4 @@
 ![NodeJS](https://shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
 ![ExpressJS](https://shields.io/badge/-Express.js-090909?style=for-the-badge&logo=express)
 ![MongoDB](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongodb)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&color=black)
