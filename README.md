@@ -3,6 +3,7 @@
 > ## 🍕 Languages and Tools
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![Dart](https://shields.io/badge/dart-090909?style=for-the-badge&logo=dart&logoColor=white).
 ![Python](https://shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![NodeJS](https://shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
 ![Nest](https://shields.io/badge/-Nest-090909?style=for-the-badge&logo=nestjs&logoColor=df274f)
