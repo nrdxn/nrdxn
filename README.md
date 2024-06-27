@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm nardana
+# 👋 Привет, я - нардана
 
-> ## 🍕 Languages and Tools
+> ## Языки и инструменты
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![Dart](https://shields.io/badge/dart-090909?style=for-the-badge&logo=dart&logoColor=white)
