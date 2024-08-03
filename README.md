@@ -1,5 +1,7 @@
 # 👋 Привет, я - нардана
 
+![:nrdxn](https://count.getloli.com/get/@:nrdxn)
+
 > ## Языки и инструменты
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
