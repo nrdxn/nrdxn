@@ -1,8 +1,8 @@
-# 👋 Привет, я - нардана
+# 🌿 Привет, добро пожаловать в мой профиль!
 
 ![:nrdxn](https://count.getloli.com/get/@:nrdxn)
 
-> ## Языки и инструменты
+> ## 🛠️ Языки и инструменты:
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![Python](https://shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
@@ -15,5 +15,6 @@
 ![Postgres](https://shields.io/badge/postgres-090909?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://shields.io/badge/Firebase-090909?style=for-the-badge&logo=firebase&logoColor=white)
 
+> ## 📊 Статистика:
 ![](https://nirzak-streak-stats.vercel.app/?user=nrdxn&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nrdxn&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
