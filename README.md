@@ -14,3 +14,6 @@
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&color=black)
 ![Postgres](https://shields.io/badge/postgres-090909?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://shields.io/badge/Firebase-090909?style=for-the-badge&logo=firebase&logoColor=white)
+
+![](https://nirzak-streak-stats.vercel.app/?user=nrdxn&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nrdxn&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
