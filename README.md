@@ -8,6 +8,8 @@
 ![Python](https://shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![NodeJS](https://shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
 ![Bun](https://shields.io/badge/-Bun-090909?style=for-the-badge&logo=bun)
+![Vue](https://shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue)
+![Nuxt](https://shields.io/badge/-Nuxt-090909?style=for-the-badge&logo=Nuxt)
 ![React](https://shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Nest](https://shields.io/badge/-Nest-090909?style=for-the-badge&logo=nestjs&logoColor=df274f)
 ![ExpressJS](https://shields.io/badge/-Express.js-090909?style=for-the-badge&logo=express)
