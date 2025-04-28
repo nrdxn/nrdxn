@@ -1,6 +1,4 @@
-# 🍪 Привет, добро пожаловать в мой профиль
-
-![:nrdxn](https://count.getloli.com/get/@:nrdxn)
+# 👋 Привет, добро пожаловать в мой профиль
 
 > ## 🛠️ Языки и инструменты:
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
@@ -17,5 +15,11 @@
 ![MongoDB](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongodb)
 ![Postgres](https://shields.io/badge/postgres-090909?style=for-the-badge&logo=postgresql&logoColor=white)
 
+> ## 📁 Проекты:
+__[Marci](https://github.com/nrdxn/Discord-Dota-News)__ — публичный Discord-бот, предназначенный настраиваемого постинга новостей по Dota 2
+
+__[Group Support](https://github.com/nrdxn/Group-Contact-Bot)__ — Telegram-бот для обратной связи с Вашей аудиторией
+
+__[Economy API](https://github.com/nrdxn/economy-api)__ — REST API для взаимодействия с экономикой в Discord-боте
 > ## 📊 Статистика:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nrdxn&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
