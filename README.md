@@ -16,7 +16,7 @@
 ![Postgres](https://shields.io/badge/postgres-090909?style=for-the-badge&logo=postgresql&logoColor=white)
 
 > ## 📁 Проекты:
-__[Marci](https://github.com/nrdxn/Discord-Dota-News)__ — публичный Discord-бот, предназначенный настраиваемого постинга новостей по Dota 2
+__[Marci](https://github.com/nrdxn/Discord-Dota-News)__ — публичный Discord-бот, предназначенный для настраиваемого постинга новостей по Dota 2
 
 __[Group Support](https://github.com/nrdxn/Group-Contact-Bot)__ — Telegram-бот для обратной связи с Вашей аудиторией
 
